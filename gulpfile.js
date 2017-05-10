@@ -1,7 +1,7 @@
-const gulp = require('gulp');
-const babel = require('gulp-babel');
-const eslint = require('gulp-eslint');
-const mocha = require('gulp-mocha');
+const gulp     = require('gulp');
+const babel    = require('gulp-babel');
+const eslint   = require('gulp-eslint');
+const mocha    = require('gulp-mocha');
 const istanbul = require('gulp-istanbul');
 
 gulp.task('default', function() {
