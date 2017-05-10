@@ -1,0 +1,3 @@
+add chai testing
+add http testing
+differentiate require vs. import
