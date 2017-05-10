@@ -1,3 +1,5 @@
 add chai testing
 add http testing
 differentiate require vs. import
+review other gulp filters
+add sinon testing
